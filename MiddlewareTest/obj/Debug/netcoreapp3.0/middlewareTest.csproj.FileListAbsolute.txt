@@ -12,3 +12,4 @@ C:\Users\Kautsky Lozano\source\repos\middlewareTest\MiddlewareTest\obj\Debug\net
 C:\Users\Kautsky Lozano\source\repos\middlewareTest\MiddlewareTest\obj\Debug\netcoreapp3.0\middlewareTest.csproj.CopyComplete
 C:\Users\Kautsky Lozano\source\repos\middlewareTest\MiddlewareTest\obj\Debug\netcoreapp3.0\middlewareTest.dll
 C:\Users\Kautsky Lozano\source\repos\middlewareTest\MiddlewareTest\obj\Debug\netcoreapp3.0\middlewareTest.pdb
+C:\Users\Kautsky Lozano\source\repos\middlewareTest\MiddlewareTest\obj\Debug\netcoreapp3.0\middlewareTest.csprojAssemblyReference.cache
