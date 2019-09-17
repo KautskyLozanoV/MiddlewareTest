@@ -1,18 +1,3 @@
-C:\Users\Kautsky Lozano\source\repos\middlewareTest\bin\Debug\netcoreapp3.0\middlewareTest.exe
-C:\Users\Kautsky Lozano\source\repos\middlewareTest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Abstractions.dll
-C:\Users\Kautsky Lozano\source\repos\middlewareTest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Features.dll
-C:\Users\Kautsky Lozano\source\repos\middlewareTest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
-C:\Users\Kautsky Lozano\source\repos\middlewareTest\obj\Debug\netcoreapp3.0\middlewareTest.csprojAssemblyReference.cache
-C:\Users\Kautsky Lozano\source\repos\middlewareTest\obj\Debug\netcoreapp3.0\middlewareTest.AssemblyInfoInputs.cache
-C:\Users\Kautsky Lozano\source\repos\middlewareTest\obj\Debug\netcoreapp3.0\middlewareTest.AssemblyInfo.cs
-C:\Users\Kautsky Lozano\source\repos\middlewareTest\obj\Debug\netcoreapp3.0\middlewareTest.csproj.CopyComplete
-C:\Users\Kautsky Lozano\source\repos\middlewareTest\bin\Debug\netcoreapp3.0\middlewareTest.deps.json
-C:\Users\Kautsky Lozano\source\repos\middlewareTest\bin\Debug\netcoreapp3.0\middlewareTest.runtimeconfig.json
-C:\Users\Kautsky Lozano\source\repos\middlewareTest\bin\Debug\netcoreapp3.0\middlewareTest.runtimeconfig.dev.json
-C:\Users\Kautsky Lozano\source\repos\middlewareTest\bin\Debug\netcoreapp3.0\middlewareTest.dll
-C:\Users\Kautsky Lozano\source\repos\middlewareTest\bin\Debug\netcoreapp3.0\middlewareTest.pdb
-C:\Users\Kautsky Lozano\source\repos\middlewareTest\obj\Debug\netcoreapp3.0\middlewareTest.dll
-C:\Users\Kautsky Lozano\source\repos\middlewareTest\obj\Debug\netcoreapp3.0\middlewareTest.pdb
 C:\Users\Kautsky Lozano\source\repos\middlewareTest\MiddlewareTest\bin\Debug\netcoreapp3.0\middlewareTest.exe
 C:\Users\Kautsky Lozano\source\repos\middlewareTest\MiddlewareTest\bin\Debug\netcoreapp3.0\middlewareTest.deps.json
 C:\Users\Kautsky Lozano\source\repos\middlewareTest\MiddlewareTest\bin\Debug\netcoreapp3.0\middlewareTest.runtimeconfig.json
@@ -22,7 +7,6 @@ C:\Users\Kautsky Lozano\source\repos\middlewareTest\MiddlewareTest\bin\Debug\net
 C:\Users\Kautsky Lozano\source\repos\middlewareTest\MiddlewareTest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Abstractions.dll
 C:\Users\Kautsky Lozano\source\repos\middlewareTest\MiddlewareTest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Features.dll
 C:\Users\Kautsky Lozano\source\repos\middlewareTest\MiddlewareTest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
-C:\Users\Kautsky Lozano\source\repos\middlewareTest\MiddlewareTest\obj\Debug\netcoreapp3.0\middlewareTest.csprojAssemblyReference.cache
 C:\Users\Kautsky Lozano\source\repos\middlewareTest\MiddlewareTest\obj\Debug\netcoreapp3.0\middlewareTest.AssemblyInfoInputs.cache
 C:\Users\Kautsky Lozano\source\repos\middlewareTest\MiddlewareTest\obj\Debug\netcoreapp3.0\middlewareTest.AssemblyInfo.cs
 C:\Users\Kautsky Lozano\source\repos\middlewareTest\MiddlewareTest\obj\Debug\netcoreapp3.0\middlewareTest.csproj.CopyComplete
